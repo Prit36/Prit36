@@ -1,10 +1,10 @@
-I write software that runs on *your own machine*. Fast native tools for Windows, and browser apps that never upload your files. Mostly in Rust, C++, Go and TypeScript.
+Full-stack developer by day. In the evenings and on weekends I write software that runs on *your own machine*: fast native tools for Windows, and browser apps that never upload your files.
 
-Surat, India · [prit36.github.io](https://prit36.github.io) · [pprit362@gmail.com](mailto:pprit362@gmail.com)
+Surat, India · [prit36.github.io](https://prit36.github.io) · [LinkedIn](https://www.linkedin.com/in/prit-prajapati36) · [pprit362@gmail.com](mailto:pprit362@gmail.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://prit36.github.io/timeline-dark.svg">
-  <img alt="My commits per day in 2026, July to October" src="https://prit36.github.io/timeline-light.svg" width="100%">
+  <img alt="When I worked on each project, July to October 2026" src="https://prit36.github.io/timeline-light.svg" width="100%">
 </picture>
 
 #### This year, newest first
@@ -22,4 +22,4 @@ Surat, India · [prit36.github.io](https://prit36.github.io) · [pprit362@gmail.
 - [Markdown PDF Studio](https://github.com/Prit36/markdown-pdf-studio) · Markdown to PDF in the browser, with selectable text. <sub>Rust/Wasm</sub>
 - [FuelMate](https://github.com/Prit36/fuelmate) · Android app for logging fuel fill-ups and mileage. <sub>Kotlin</sub>
 
-<sub>The timeline is drawn from my commits by [update_data.py](https://github.com/Prit36/Prit36.github.io/blob/main/update_data.py).</sub>
+<sub>The timeline is drawn from my public GitHub activity by [update_data.py](https://github.com/Prit36/Prit36.github.io/blob/main/update_data.py).</sub>
